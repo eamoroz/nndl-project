@@ -1,4 +1,5 @@
 # Demand Forecasting for FMCG Products Using a CNN-Transformer Model
+Team 6: Militsyna Polina, Moroz Ekaterina, Soboleva Tatyana
 
 ## Project Overview
 
