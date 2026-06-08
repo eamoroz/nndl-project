@@ -21,7 +21,8 @@ The dataset contains daily product-level observations, including:
 * Customer feedback indicators
 * Historical demand information
 
-The data used for training and evaluation is provided in the repository.
+The data used for training and evaluation is provided via link https://drive.google.com/file/d/1JL_IZ6xZ9F8JTDplsZNJ5uJspXdEQS-H/view?usp=sharing 
+An access request is required
 
 ---
 
